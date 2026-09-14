@@ -1,0 +1,56 @@
+﻿# ── Core UI & Async ────────────────────────────────────────────────────────
+PyQt6
+fastapi
+uvicorn[standard]
+cryptography
+python-multipart
+qrcode[pil]
+
+# ── Gemini & LLM ────────────────────────────────────────────────────────────
+google-genai>=2.8.0
+google-generativeai
+ollama
+requests
+beautifulsoup4
+ddgs>=9.0.0
+
+# ── Speech-to-Text (STT) & Audio Capture ────────────────────────────────────
+sounddevice
+SoundCard
+faster-whisper
+ctranslate2
+vosk
+
+# ── Text-to-Speech (TTS) & Playback ─────────────────────────────────────────
+edge-tts
+miniaudio
+pygame
+pyttsx3
+
+# ── Vision, Screen & System Automation ──────────────────────────────────────
+pillow
+opencv-python
+numpy
+mss
+psutil
+send2trash
+pyautogui
+pyperclip
+pygetwindow
+playwright
+youtube-transcript-api
+python-pptx
+
+# ── Windows Platform Specifics ──────────────────────────────────────────────
+comtypes; sys_platform == "win32"
+pycaw; sys_platform == "win32"
+win10toast; sys_platform == "win32"
+pywinauto; sys_platform == "win32"
+pywin32; sys_platform == "win32"
+uiautomation; sys_platform == "win32"
+winsdk; sys_platform == "win32"
+
+# ── GPU Acceleration (CUDA 12 Windows Wheels for faster-whisper/CTranslate2) ─
+nvidia-cublas-cu12; sys_platform == "win32"
+nvidia-cudnn-cu12; sys_platform == "win32"
+nvidia-cuda-nvrtc-cu12; sys_platform == "win32"

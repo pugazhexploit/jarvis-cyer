@@ -1,0 +1,15 @@
+﻿{
+    "gemini_api_key": "YOUR_GEMINI_API_KEY_HERE",
+    "os_system": "windows",
+    "camera_index": 0,
+    "llm_provider": "ollama",
+    "llm_model": "llama3.2",
+    "llm_url": "http://localhost:11434",
+    "plugins_enabled": {
+        "whatsapp_monitor": true,
+        "whatsapp_voice_bridge": true
+    },
+    "assistant_name": "JARVIS",
+    "user_name": "User",
+    "ui_color": "#00d4ff"
+}

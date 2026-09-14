@@ -1,0 +1,58 @@
+{
+  "identity": {
+    "language": {
+      "value": "Tamil",
+      "updated": "2026-09-13"
+    },
+    "name": {
+      "value": "Pugazh",
+      "updated": "2026-09-13"
+    },
+    "alternative_name": {
+      "value": "Subash",
+      "updated": "2026-09-13"
+    },
+    "author_name": {
+      "value": "pugazhenthi",
+      "updated": "2026-09-14"
+    }
+  },
+  "preferences": {
+    "communication_style": {
+      "value": "Tanglish",
+      "updated": "2026-09-13"
+    },
+    "favorite_food": {
+      "value": "Biryani",
+      "updated": "2026-09-14"
+    }
+  },
+  "projects": {},
+  "relationships": {
+    "last_whatsapp_reply_amma": {
+      "value": "Auto-replied to amma with message assuring everything is fine.",
+      "updated": "2026-09-14"
+    },
+    "last_whatsapp_reply_Priya_Frd": {
+      "value": "Auto-replied to Priya Frd's message 'Po' while Pugazh was engaged.",
+      "updated": "2026-09-14"
+    },
+    "Asar Frd_last_whatsapp_reply": {
+      "value": "Auto-replied to Asar Frd's message \"Hmm try pani pakuraa\" with: \"Hello, I am JARVIS, personal assistant to *Pugazh*. Pugazh is currently engaged at his desk. I've received your message. I'll let Pugazh know about it. Will notify them immediately if it's urgent.\"",
+      "updated": "2026-09-14"
+    }
+  },
+  "wishes": {},
+  "notes": {
+    "last_whatsapp_reply": {
+      "value": "Auto-replied to WhatsApp message from 'Keerthana ✨' with message regarding anger/words, with: 'Hello, I am Jarvis. Deepak is currently busy, but I will convey your message to him.'",
+      "updated": "2026-09-13"
+    },
+    "last_whatsapp_reply_shanthi": {
+      "value": "Auto-replied to Shanthi ❤️ with message regarding engagement in coding and passing along greeting.",
+      "updated": "2026-09-13"
+    }
+  },
+  "monitors": {},
+  "sessions": []
+}
