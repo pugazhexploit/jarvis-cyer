@@ -41,7 +41,7 @@ playwright
 youtube-transcript-api
 python-pptx
 
-# ── Windows Platform Specifics ──────────────────────────────────────────────
+# ── Windows Platform Specifics ─────────────────────────────────────────────
 comtypes; sys_platform == "win32"
 pycaw; sys_platform == "win32"
 win10toast; sys_platform == "win32"
