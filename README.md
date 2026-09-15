@@ -4,6 +4,8 @@
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey.svg)]()
 
+**JARVIS-CYER** is an advanced, multimodal AI desktop assistant equipped with real-time voice interaction, dynamic UI HUD, autonomous system & browser control, WhatsApp voice bridging, hardware drone interfacing, and integrated Kali Linux security tool automation via WSL2.
+
 
 ---
 
